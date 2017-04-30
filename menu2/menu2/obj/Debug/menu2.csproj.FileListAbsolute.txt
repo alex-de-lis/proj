@@ -1,0 +1,12 @@
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\bin\Debug\menu2.exe.config
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\bin\Debug\menu2.exe
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\bin\Debug\menu2.pdb
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.csprojResolveAssemblyReference.cache
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.f1.resources
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.Form1.resources
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.Properties.Resources.resources
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.csproj.GenerateResource.Cache
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.exe
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.pdb
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.f2.resources
+E:\Учёба\ТРЗП\Лабы\4\Prog\menu2\menu2\obj\Debug\menu2.f3.resources
